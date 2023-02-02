@@ -1,5 +1,5 @@
-👋 Hi, I’m Yann
-👀 This is my Portfolio
+👋 Hi, I’m Yann <br>
+This is my Portfolio 👀 <br>
 
 1. **Premier projet** de la formation de developpeur web d'Openclassroom => Création d'un CV en html/css sans utiliser Bootstrap <br>
 https://anobayann.github.io/projet2OCR/
