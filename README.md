@@ -18,4 +18,6 @@ https://anobayann.github.io/Projet_5OC/index.html
 https://www.dive-in-taiwan.com/
 
 6. **Sixième projet**  => Création d'un site pour l'entreprise LV Rénovation avec Wordpress.<br>
-_En cours.._
+https://lvrenovation59.fr/
+
+
