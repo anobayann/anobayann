@@ -15,7 +15,7 @@ https://anobayann.github.io/EntrepriseWebdesign_Lyon
 https://anobayann.github.io/Projet_5OC/index.html
 
 5. **Cinquième projet**  => Création de mon site pour présenter mes prestations en tant que moniteur de plongée sous-marine à Taiwan avec html/css. <br>
-https://www.dive-in-taiwan.com/
+https://anobayann.github.io/dive-in-liuqiu/
 
 6. **Sixième projet**  => Création d'un site pour l'entreprise LV Rénovation avec Wordpress.<br>
 https://lvrenovation59.fr/
